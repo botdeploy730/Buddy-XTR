@@ -1,7 +1,7 @@
 
 {
-  "name": "CARL TECH",
-  "description": "Buddy-XTR by carl william.",
+  "name": "BENSON NGUGI",
+  "description": "Buddy-XTR by benson.",
   "logo": "https://files.catbox.moe/waszph.jpg",
   "keywords": ["CARL-TECH", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/carl24tech/Buddy-XTR",
@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with Buddy;;;",
       "required": true,
-      "value": ""
+      "value": "Buddy;;;ldwjnJpY#8BvRd5A7G7OBlvhDhiTW9Qfyv-VRPEOtLS6J6lyzxig"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .)",
@@ -25,12 +25,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": false,
-      "value": "𝖂𝖎𝖑𝖑𝖎𝖆𝖒"
+      "value": "Benson"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": ""
+      "value": "254727374449"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -45,7 +45,7 @@
     "AUTO_RECORDING": {
       "description": "Enable bot to show recording status (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
