@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with Buddy;;;",
       "required": true,
-      "value": "Buddy;;;ldwjnJpY#8BvRd5A7G7OBlvhDhiTW9Qfyv-VRPEOtLS6J6lyzxig"
+      "value": "Buddy;;;IVoxjJCK#LWjlYsEJurTcSU_eKYep9Sx8cV77n3t5j__LZKSF_uo"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
