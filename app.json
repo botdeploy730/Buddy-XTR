@@ -67,6 +67,11 @@
       "required": false,
       "value": "true"
     },
+    "AUTO_REACT_STATUS_EMOJI":{
+      "description":"Autoreacts to the status"
+      "required": true,
+      "value":"❤️,🐯,🐹"
+    },
     "AUTO_BLOCK": {
       "description": "Enable bot to auto-block specific numbers (true/false)",
       "required": false,
